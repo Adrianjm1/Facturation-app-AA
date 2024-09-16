@@ -10,7 +10,7 @@ import router from 'routes';
 // defaultTheme
 import themes from 'themes';
 
-// project imports
+// project imports 
 import NavigationScroll from 'layout/NavigationScroll';
 import { useEffect } from 'react';
 import { useStoreZ } from 'store/zustand/zustand';
